@@ -11,11 +11,3 @@ app.use(routes);
 app.listen(process.env.PORT || 3333, () => {
   console.log('hTTP server running')
 })
-
-//GET -> Buscar informações
-//POST -> Cadastrar informações
-//PUT -> Atualizar informações de uma entidade
-//PATCH -> Atulizar uma infomação única de uma entidade
-//DELETE -> Deletar uma informação
-//npm run dev
-//npx prima studio
