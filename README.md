@@ -27,6 +27,13 @@ Aplicativo desenvolvido tanto para web, quanto para mobile, para lhe ajudar o us
  Expo Google Fonts
  React Native Gesture Handler 
  
+ 📧 E-mail testing
+ Mailtrap.io
+ 
+ 🚀 Deploy 
+ Railway.app 
+ Vercel
+ 
 🛠️ Features
  Criação de feedbacks
    Escrever uma análise
