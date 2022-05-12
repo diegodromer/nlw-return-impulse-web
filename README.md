@@ -1,6 +1,6 @@
 # nlw-return-impulse-web
 
-Aplicativo desenvolvido tanto para web, quanto para mobile, para lhe ajudar o usuário a enviar feedbacks sobre o uso da aplicação. Envie feedbacks, faça comentários e ajuda a tornar a aplicação (no qual o nosso sheetbottom possa ser inserido) melhor.
+Aplicativo desenvolvido tanto para web, quanto para mobile, para ajudar o usuário a enviar feedbacks sobre o uso da aplicação onde a ferramenta estiver implementada. Envie feedbacks, faça comentários, tive printscreen da tela e ajuda a tornar a aplicação (no qual o nosso sheetbottom possa ser inserido) cada vez melhor.
 
 ->Tela Principal.
 
