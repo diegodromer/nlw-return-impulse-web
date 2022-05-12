@@ -3,12 +3,15 @@
 Aplicativo desenvolvido tanto para web, quanto para mobile, para lhe ajudar o usuário a enviar feedbacks sobre o uso da aplicação. Envie feedbacks, faça comentários e ajuda a tornar a aplicação (no qual o nosso sheetbottom possa ser inserido) melhor.
 
 ->Tela Principal.
+
 ![printscreen_web_principal](https://user-images.githubusercontent.com/24457337/168181306-91c63ec6-9385-476d-ab52-7e901dd060f0.png)
 
 ->Tela com as opções de feedback que o usuário pode escolher.
+
 ![printscreen_web_descricao](https://user-images.githubusercontent.com/24457337/168181316-36f9a3ff-ea9c-43b7-91a5-3093911afd36.png)
 
 ->Tela notificando que o feedback foi enviado com sucesso.
+
 ![printscreen_web_enviardo](https://user-images.githubusercontent.com/24457337/168181323-3fa4cd4a-6896-4cd5-85c1-fa8f21a97f86.png)
 
 ✨ Tecnologias
