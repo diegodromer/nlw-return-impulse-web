@@ -60,7 +60,7 @@ Você pode visualizar o layout do projeto através <a href="https://www.figma.co
 Utilize o yarn ou o npm install para instalar as dependências do projeto. Em seguida, inicie o projeto.
 
 <ul class="contains-task-list">
- <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> modo mobile: expo starts</li>
+ <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> modo mobile: expo start</li>
  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> modo web: npm run dev</li>
  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> iniciar servidor: npm run dev</li>
 </ul>
