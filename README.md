@@ -53,8 +53,12 @@ Aplicativo desenvolvido tanto para web, quanto para mobile, para ajudar o usuár
 Você pode visualizar o layout do projeto através <a href=“https://www.figma.com/file/RByVbM9j8QGfZHoL1i2cr2/Feedback-Widget-(Community)“>desse link</a>. É necessário ter conta no <a href=“https://www.figma.com/“>Figma</a> para acessá-lo.
 
 Executando o projeto
+ 
 Utilize o yarn ou o npm install para instalar as dependências do projeto. Em seguida, inicie o projeto.
 
 modo mobile: expo start
+ 
 modo web: npm run dev
+ 
 iniciar servidor: npm run dev
+ 
